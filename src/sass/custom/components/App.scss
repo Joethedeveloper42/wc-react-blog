@@ -1,0 +1,13 @@
+.App {
+  font-family: $fontPrimary;
+
+  .container {
+    max-width: 900px;
+  }
+
+  .blog-header {
+    .checkout-logo {
+      width: 200px;
+    }
+  }
+}
